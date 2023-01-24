@@ -1,0 +1,30 @@
+ body{
+                background-color:rgb(223, 200, 200);  
+                font-family: candara;
+                font-size: small;
+                color:rgb(121, 99, 99);      
+              }
+            h1{
+                text-align: center;
+                
+                
+            }
+            div{
+                border: 2px solid purple;
+                
+                background-color: rgb(192, 187, 187);
+            }
+            span{
+                color: rgb(230, 60, 60);
+            }
+
+            table,th,td
+		 {
+	  	 border:3px solid rgb(173, 143, 143);
+	   	 border-collapse:collapse;
+	     height:50%;
+		 padding:20px;
+	   	 }
+         ol{
+            color:rgb(158, 131, 131) ;
+         }  
